@@ -143,7 +143,7 @@ Through these projects, the following concepts are practised:
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Ravi B K
 
 **GitHub:** Add your GitHub profile link here.
 
